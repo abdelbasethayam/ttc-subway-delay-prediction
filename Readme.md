@@ -34,16 +34,6 @@ TTC delays affect over 1 million daily riders. Early prediction allows proactive
 - Best F1: **0.749 (LightGBM)**
 - Strongest predictor: incident cause code frequency
 
-Repo structure
-ttc-subway-delay-prediction/
-│
-├── README.md
-├── ttc_subway_delay_prediction.ipynb
-├── report.pdf
-├── presentation.pptx
-├── requirements.txt
-└── .gitignore
-
 ## Authors
 - Hayam Rezk
 - Shorouk Rashed
